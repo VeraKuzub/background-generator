@@ -38,8 +38,8 @@ function getValueGradient (value) {
 
 // get random number from 0 to 255
 function RandomNumber(){
-var random = Math.floor(Math.random() * 255) + 1; 
-return random;
+	var random = Math.floor(Math.random() * 255) + 1; 
+	return random;
 }
 
 
